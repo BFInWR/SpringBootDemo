@@ -1,0 +1,10 @@
+${AnsiColor.YELLOW}
+  ________  ___________
+ /  _____/  \_   _____/
+/   \  ___   |    __)
+\    \_\  \  |     \
+ \______  /  \___  /
+        \/       \/
+
+ ${AnsiColor.RED}
+ Spring Boot Version: ${spring-boot.version}     ＼(^O^)／    ${spring-boot.formatted-version}
